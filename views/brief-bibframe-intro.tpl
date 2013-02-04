@@ -7,7 +7,7 @@
 </div>
 <div class="row-fluid">
  <div class="span8">
-  <img src="/assets/img/bibframe-figure-1.png" 
+  <img src="/code4lib/assets/img/bibframe-figure-1.png" 
        class="img-polaroid" 
        alt="BIBFRAME Model and Classes"
        usemap="#bibframe-map">
@@ -54,24 +54,24 @@
  <div class="span4">
    <h3>BIBFRAME Core Entities</h3>
    <p>
-   The <a href="/glossary.html#Creative-Work" class="label label-inverse">Creative Work</a> is a resource that reflects a conceptual essence of the cataloging resource.
+   The <a href="/code4lib/glossary.html#Creative-Work" class="label label-inverse">Creative Work</a> is a resource that reflects a conceptual essence of the cataloging resource.
    </p>
    <p>
-    The <a href="/glossary.html#Instance" class="label label-inverse">Instance</a> is a resource that reflects an individual, material emodiment of the Creative Work.
+    The <a href="/code4lib/glossary.html#Instance" class="label label-inverse">Instance</a> is a resource that reflects an individual, material emodiment of the Creative Work.
    </p>
    <p>
-    <a href="/glossary.html#Authority" class="label label-inverse">Authorities</a> in the BIBFRAME model 
-    <a href="/glossary.html#People" class="label label-success">People</a>, 
-    <a href="/glossary.html#Places" class="label label-success">Places</a>, 
-    <a href="/glossary.html#Organizations" class="label label-success">Organizations</a>, and 
-    <a href="/glossary.html#topics" class="label label-success">Topics</a>.
+    <a href="/code4lib/glossary.html#Authority" class="label label-inverse">Authorities</a> in the BIBFRAME model 
+    <a href="/code4lib/glossary.html#People" class="label label-success">People</a>, 
+    <a href="/code4lib/glossary.html#Places" class="label label-success">Places</a>, 
+    <a href="/code4lib/glossary.html#Organizations" class="label label-success">Organizations</a>, and 
+    <a href="/code4lib/glossary.html#topics" class="label label-success">Topics</a>.
    </p>
    <p>
-    <a href="/glossary.html#Annotation" class="label label-inverse">Annotations</a> is a resource that is decorates or 
+    <a href="/code4lib/glossary.html#Annotation" class="label label-inverse">Annotations</a> is a resource that is decorates or 
     enhances other BIBFRAME resources with additional information. Specific types of annotations include 
-    <a href="/glossary.html#Holdings" class="label label-success">Library Holdings</a>, 
-    <a href="/glossary.html#CoverArt" class="label label-success">Cover Art</a>, and 
-    <a href="/glossary.html#Review" class="label label-success">Reviews</a>
+    <a href="/code4lib/glossary.html#Holdings" class="label label-success">Library Holdings</a>, 
+    <a href="/code4lib/glossary.html#CoverArt" class="label label-success">Cover Art</a>, and 
+    <a href="/code4lib/glossary.html#Review" class="label label-success">Reviews</a>
    </p>
  </div>
 </div>
@@ -79,8 +79,8 @@
 <div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
-   <a href="/" class="btn btn-large">&laquo; Home</a>
-   <a href="/quick-redis-primer.html" class="btn btn-large btn-success">Quick Redis Primer &raquo;</a>
+   <a href="/code4lib/" class="btn btn-large">&laquo; Home</a>
+   <a href="/code4lib/quick-redis-primer.html" class="btn btn-large btn-success">Quick Redis Primer &raquo;</a>
   </div>
  </div>
 </div>

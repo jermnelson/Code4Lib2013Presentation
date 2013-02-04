@@ -29,7 +29,7 @@ def send_asset(type_of,filename):
         return static_file(filename,
 			   root=os.path.join(app_root,"assets",type_of))
 
-@route('/<page:path>.html')
+@route('/code4lib/<page:path>.html')
 def simple_page_router(page="help"):
     """
     Displays a mostly static HTML, defaults to help page
@@ -52,7 +52,7 @@ def home():
 		    section = None,
 		    view_title='A title')
 
-FLUP = True
+FLUP = False
 if FLUP is True:
     run(server=FlupFCGIServer,
         host='0.0.0.0',

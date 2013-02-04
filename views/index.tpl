@@ -1,6 +1,6 @@
 %include masthead nav_section='home'
       <div class="jumbotron">
-        <h1>Evolving Towards a Consortium <img src="/assets/img/no-marcr.png" alt="Not MARCR">
+        <h1>Evolving Towards a Consortium <img src="/code4lib/assets/img/no-marcr.png" alt="Not MARCR">
         BIBFRAME Redis Datastore</h1>
      </div>
 
@@ -26,9 +26,9 @@
         <p class="lead">Colorado College, University of Denver, Colorado 
          State University, and the Alliance of Research Libraries are 
          currently collaborating on 
-         <a href="/glossary.html#RLSP">Redis Library Services Platform (RLSP)</a>, a new type of bibliographic datastore for accessing and managing library resources at scale. 
+         <a href="/code4lib/glossary.html#RLSP">Redis Library Services Platform (RLSP)</a>, a new type of bibliographic datastore for accessing and managing library resources at scale. 
         </p>
-        <a class="btn btn-large btn-success" href="/brief-bibframe-intro.html">Briefly Introducting BIBFRAME &raquo;</a>
+        <a class="btn btn-large btn-success" href="/code4lib/brief-bibframe-intro.html">Briefly Introducting BIBFRAME &raquo;</a>
       </div>
   
       <hr>
@@ -46,17 +46,14 @@
            BIBFRAME. 
           </p>
 
-          <h4>Background</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
         </div>
 
         <div class="span6">
           <h4>Addendum to Presentation</h4>
           <p>Most terms referenced in this presentation are briefly defined in a
-             <a href="/glossary.html">Glossary</a>, a list of resources including
-          links to most of the technology used in in <a href="/glossary.html#rlsp">RLSP</a>
-          and in this presentation are availabe on the <a href="/references.html">References</a>
+          <a href="/code4lib/glossary.html">Glossary</a>, a list of resources including
+          links to most of the technology used in in <a href="/code4lib/glossary.html#rlsp">RLSP</a>
+          and in this presentation are availabe on the <a href="/code4lib/references.html">References</a>
           page. </p>
   
         </div>

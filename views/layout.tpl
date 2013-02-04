@@ -9,7 +9,7 @@
     <meta name="author" content="Sheila Yeh">
 
     <!-- Le styles -->
-    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/code4lib/assets/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 20px;
@@ -47,9 +47,9 @@
         margin-top: 28px;
       }
     </style>
-    <link href="/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
-    <link href="/assets/css/code4lib2013.less" type="text/css" rel="stylesheet/less">
-    <script src="/assets/js/less.min.js" type="text/javascript"></script>
+    <link href="/code4lib/assets/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="/code4lib/assets/css/code4lib2013.less" type="text/css" rel="stylesheet/less">
+    <script src="/code4lib/assets/js/less.min.js" type="text/javascript"></script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -73,9 +73,9 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="/assets/js/jquery.js"></script>
-    <script src="/assets/js/bootstrap.min.js"></script>
-    <script src="/assets/js/knockout.js"></script>
+    <script src="/code4lib/assets/js/jquery.js"></script>
+    <script src="/code4lib/assets/js/bootstrap.min.js"></script>
+    <script src="/code4lib/assets/js/knockout.js"></script>
 
   
 

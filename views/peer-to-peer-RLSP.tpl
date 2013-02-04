@@ -1,7 +1,7 @@
 %include masthead nav_section='presentation'
 <div class="row-fluid">
  <div class="span12 hero-unit">
-   <h1>Peer-to-Peer <a href="/glossary.html#RLSP">RLSP</a></h1>
+   <h1>Peer-to-Peer <a href="/code4lib/glossary.html#RLSP">RLSP</a></h1>
    <p class="lead"></p>
  </div>
 </div>
@@ -9,8 +9,8 @@
 <div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
-   <a href="/single-institution-RLSP.html" class="btn btn-large">&laquo; Single Institution RLSP</a>
-   <a href="/consortium-RLSP.html" class="btn btn-large btn-success">Consortium RLSP &raquo;</a>
+   <a href="/code4lib/single-institution-RLSP.html" class="btn btn-large">&laquo; Single Institution RLSP</a>
+   <a href="/code4lib/consortium-RLSP.html" class="btn btn-large btn-success">Consortium RLSP &raquo;</a>
   </div>
  </div>
 </div>
