@@ -21,10 +21,43 @@
     The <a href="http://www.ala.org">American Library Association</a> is the largest library
     professional organization that is actively involved in most areas of library operations.
    </dd>
+   <dt><a name="Annotation"></a>Annotation</dt>
+   <dd>
+    A core <a href="#BIBFRAME">BIBFRAME</a> class ...
+   </dd>
+   <dt><a name="aristotle-library-apps"></a>Aristotle Library Apps</dt>
+   <dd>
+    An open-source project that 
+   </dd>
+   <dt><a name="authority"></a>Authority</dt>
+   <dd>
+     In the <a href="#BIBFRAME">BIBFRAME</a> bibliographic model, an authority is a core class
+     that established a relationship between a <a href="#CreativeWork">Creative Work</a> or 
+     <a href="#Instance">Instance</a> to a <a href="#Person">People</a>, <a href="#Place">Places</a>,
+     <a href="#Organization">Organizations</a>, or <a href="#Topic">Topics</a>
+   </dd>
    <dt><a name="BIBFRAME"></a>BIBFRAME</dt>
    <dd>
-     BIBFRAME is the name given by the Bibliographic ....
+     BIBFRAME is the modeling effort by the Library of Congress Bibliographic Framework Initiative that follows
+    a <a href="#LinkedData">LinkedData</a> approach using concepts from <a href="#FRBR">FRBR</a> and 
+    <a href="#RDA">RDA</a>. BIBFRAME is made up of four classes; 
+    <a href="#CreativeWork">Creative Work</a>, <a href="#Instance">Instance</a>, 
+    <a href="#Authority">Authority</a>, and <a href="#Annotation">Annotation</a></a>.
    </dd>
+   </dd>
+   <dt><a name="BIBFRAME-Datastore"></a>BIBFRAME Datastore</dt>
+   <dd>
+    An open-source project, not affiliated with the Library of Congress, that has configuration,
+    documentation, and custom scripting for a native BIBFRAME datastore implemented in Redis.
+    Source code is available at 
+    <a href="https://github.com/jermnelson/BIBFRAME-Datastore">https://github.com/jermnelson/BIBFRAME-Datastore</a>.
+   </dd>  
+   <dt><a name="CreativeWork"></a>Creative Work</dt>
+   <dd>
+     A core class of the <a href=#BIBFRAME">BIBFRAME</a> model.
+   </dd>
+     <a href="#instance">Instance</a> to a <a href="#people">People</a>, <a href="#places">Places</a>,
+
    <dt><a name="DevOps"></a>DevOps</a></dt>
    <dd>
     A new buzzword in information technology, DevOps (short of development and operations),
@@ -60,6 +93,9 @@
     <a href="http://www.ifla.org/">International Federation of Library Associations and Institutions</a> an international
     professional organization.
    </dd>
+   <dt><a name="Instance"></a>Instance</dt>
+   <dd>A core class of the <a href="#BIBFRAME">BIBFRAME</a> model</dd>
+
    <dt><a name="LinkedData"></a>Linked Data</dt>
    <dd>
     Linked Data is an international effort by multiple user communities to build a semantic web for representing relationships
@@ -69,17 +105,6 @@
    <dd>
     An acronym for Machine Readable Cataloging record, MARC21 is the most widely used data-carrier format and specification 
     used by libraries today. 
-   </dd>
-   <dt><a name="MARCR"></a>MARCR</dt>
-   <dd>
-    MARCR is a modeling effort by the Library of Congress Bibliographic Framework Initiative that follows
-    a <a href="#LinkedData">LinkedData</a> approach using concepts from <a href="#FRBR">FRBR</a> and 
-    <a href="#RDA">RDA</a>. MARCR is made up for four classes; Work, Instance, Authority, and Annotation</a>.
-   </dd>
-   <dt><a name="MOOC"></a>MOOC</dt>
-   <dd>
-    An acronym for Massive Online Open Courses, is a newer term for online systems that feature usually 
-    video that cater to large classes of thousands and is the subject of a lot start-up activity.
    </dd>
   </dl>
  </div>
@@ -91,10 +116,28 @@
     A general term for the class of newer data storage technologies that differ
     from traditional databases that use SQL.
    </dd>
+   <dt><a name="Organization"></a>Organization</dt>
+   <dd>
+    A  <a href="#BIBFRAME">BIBFRAME</a> class that represents a human organization including corporations,
+    government entities, non-profit, religious, or any other structured group. An Organization class
+    defines an authority relationship with 
+    with a <a href="#CreativeWork">Creative Work</a> or <a href="#Instance">Instance</a>
+   </dd>
+   <dt><a name="Person"></a>Person</dt> 
+   <dd>A <a href="#BIBFRAME">BIBFRAME</a> class that represents a human being. A Person entity
+      defines a type of authority relationship with a <a href="#CreativeWork">Creative Work</a> or
+      <a href="#Instance">Instance</a></dd>
+   <dt><a name="Place"></a>Place</dt>
+   <dd>
+     A <a href="#BIBFRAME">BIBFRAME</a> class that represents a geographic location. A Place entity
+     defines a geographic authority relationship with a <a href="#CreativeWork">Creative Work</a> or
+     <a href="#Instance">Instance</a>
+   </dd>
    <dt><a name="Python"></a>Python</dt>
    <dd>
     <a href="http://www.python.org/">Python</a> is a popular open-source programming language that used in 
-    the <a href="#">Aristotle Library Apps</a> and <a href="#">MARCR Datastore</a> project. 
+    the <a href="#">Aristotle Library Apps</a> and
+    <a href="#BIBFRAME-Datastore">BIBFRAME Datastore</a> project. 
    </dd>
    <dt><a name="RDA"></a>RDA</a></dt>
    <dd>
@@ -115,6 +158,12 @@
     An acronym for the Redis Library Services Platform, an open source project made up of two open source
     projects, <a href="#BIBFRAME-Datastore">BIBFRAME-Datastore</a> and 
     <a href="#aristotle-library-apps">Aristotle Library Apps</a>.
+   </dd>
+   <dt><a name="Topic"></a>Topic</dt>
+   <dd>
+    A <a href="#BIBFRAME">BIBFRAME</a> class representing a specific topic that has
+    an authority relationship with either a <a href="#CreativeWork">Creative Work</a> or
+     <a href="#Instance">Instance</a>
    </dd>
    <dt><a name="WEMI"></a>WEMI</dt>
    <dd>
