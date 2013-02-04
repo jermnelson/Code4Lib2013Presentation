@@ -5,6 +5,7 @@
 __author__ = "Jeremy Nelson, Sheila Yeh"
 
 from bottle import template,request,route,run,static_file
+from bottle import FlupFCGIServer
 import json,os,datetime
 
 
@@ -15,7 +16,7 @@ json_dir = os.path.join(app_root,
                        "json")
 
 
-@route('/assets/<type_of:path>/<filename:path>')
+@route('/code4lib/assets/<type_of:path>/<filename:path>')
 def send_asset(type_of,filename):
     """
     Sends static content like images, css, and js files to web
@@ -42,7 +43,7 @@ def simple_page_router(page="help"):
     return template(page,
 		    section=section)
 
-@route("/")
+@route("/code4lib/")
 def home():
     """
     Default view for the presentation.
@@ -51,6 +52,10 @@ def home():
 		    section = None,
 		    view_title='A title')
 
-
-run(host="localhost",port=8013)
-
+FLUP = True
+if FLUP is True:
+    run(server=FlupFCGIServer,
+        host='0.0.0.0',
+        port=8081)
+else:
+    run(host="0.0.0.0",port=8013)
