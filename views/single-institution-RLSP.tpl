@@ -9,7 +9,7 @@
 <div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
-   <a href="/code4lib/redis-library-services-platform.html" class="btn btn-large">&laquo; Redis Library Services Platform (RLSP)</a>
+   <a href="/code4lib/aristotle-library-apps.html" class="btn btn-large">&laquo; Existing and Planned Apps</a>
    <a href="/code4lib/peer-to-peer-RLSP.html" class="btn btn-large btn-success">Peer-to-Peer RLSP &raquo;</a>
   </div>
  </div>

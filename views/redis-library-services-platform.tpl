@@ -9,8 +9,8 @@
 <div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
-   <a href="/code4lib/quick-redis-primer.html" class="btn btn-large">&laquo; A Quick Redis Primer</a>
-   <a href="/code4lib/single-institution-RLSP.html" class="btn btn-large btn-success">Single Institution RLSP &raquo;</a>
+   <a href="/code4lib/bibframe-redis.html" class="btn btn-large">&laquo; Combining BIBFRAME and Redis</a>
+   <a href="/code4lib/aristotle-library-apps.html" class="btn btn-large btn-success">Existing and Planned Apps &raquo;</a>
   </div>
  </div>
 </div>

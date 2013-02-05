@@ -9,7 +9,7 @@
 <div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
-   <a href="/code4lib/consortium-RLSP.html" class="btn btn-large">&laquo; Consortium RLSP</a>
+   <a href="/code4lib/limitations-future-dev.html" class="btn btn-large">&laquo; Limitations and Future Development</a>
   </div>
  </div>
 </div>

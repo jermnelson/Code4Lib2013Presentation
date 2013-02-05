@@ -10,7 +10,7 @@
  <div class="span10 offset2">
   <div class="btn-group">
    <a href="/code4lib/peer-to-peer-RLSP.html" class="btn btn-large">&laquo; Peer-to-Peer RLSP</a>
-   <a href="/code4lib/timeline-join-RLSP.html" class="btn btn-large btn-success">Timeline &amp; Participating &raquo;</a>
+   <a href="/code4lib/limitations-future-dev.html" class="btn btn-large btn-success">Limitations and Future Development &raquo;</a>
   </div>
  </div>
 </div>

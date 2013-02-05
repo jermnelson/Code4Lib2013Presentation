@@ -18,8 +18,8 @@
   <div class="btn-group">
    <a href="/code4lib/brief-bibframe-intro.html" 
       class="btn btn-large">&laquo; Briefly Introducing BIBFRAME</a>
-   <a href="/code4lib/redis-library-services-platform.html" 
-      class="btn btn-large btn-success">Redis Library Services Platform (RLSP) &raquo;</a>
+   <a href="/code4lib/bibframe-redis.html" 
+      class="btn btn-large btn-success">Combining BIBFRAME and Redis &raquo;</a>
   </div>
  </div>
 </div>
