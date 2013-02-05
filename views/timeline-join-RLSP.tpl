@@ -1,8 +1,22 @@
 %include masthead nav_section='presentation'
 <div class="row-fluid">
  <div class="span12 hero-unit">
-   <h1>Timeline &amp; Participating</h1>
+   <h1>Timeline and Participating</h1>
    <p class="lead"></p>
+ </div>
+</div>
+<hr>
+<div class="row-fluid">
+ <div class="span12">
+  <p>Timeline following Grant narrative, using Agile &amp; Lean Startup towards a Consortium-level RLSP by 
+     October 2014</p>
+ </div>
+</div>
+<hr>
+<div class="row-fluid">
+ <div class="span8">
+  <a href="#" class="btn btn-large btn-success">Questions? Comments?</a>
+  <a href="#" class="btn btn-large btn-primary">How can I partipate?</a>
  </div>
 </div>
 <hr>

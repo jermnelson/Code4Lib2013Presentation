@@ -79,7 +79,7 @@
 <div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
-   <a href="/code4lib/" class="btn btn-large">&laquo; Home</a>
+   <a href="/code4lib/overview.html" class="btn btn-large">&laquo; Overview</a>
    <a href="/code4lib/quick-redis-primer.html" class="btn btn-large btn-success">Quick Redis Primer &raquo;</a>
   </div>
  </div>

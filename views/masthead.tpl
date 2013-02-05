@@ -15,9 +15,9 @@
       <b class="caret"></b>
     </a>
     <ul class="dropdown-menu">
+     <li><a href="/code4lib/overview.html">Overview</a></li>
      <li><a href="/code4lib/brief-bibframe-intro.html">Briefly Introducing BIBFRAME</a></li>
      <li><a href="/code4lib/quick-redis-primer.html">A Quick Redis Primer</a></li>
-     <li><a href="/code4lib/bibframe-redis.html">Combining BIBFRAME and Redis</a></li>
      <li><a href="/code4lib/redis-library-services-platform.html">Redis Library Services Platform (RLSP)</a></li>
      <li><a href="/code4lib/aristotle-library-apps.html">Existing and Planned Library Apps</a></li>
      <li><a href="/code4lib/single-institution-RLSP.html">Single Institution RLSP</a></li>

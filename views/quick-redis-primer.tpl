@@ -14,12 +14,25 @@
 <img src="http://redis.io/images/redis-300dpi.png">
 <hr>
 <div class="row-fluid">
+ <div class="span8">
+  <h3>Two Minutes</h3>
+  <ul>
+   <li>Data structure server</li>
+   <li>Differences between Redis &amp; SQL</li>
+   <li>Who is using Redis</li>
+   <li>Cloud Support</li>
+   <li>"Big Data"</li>
+  </ul>
+ </div>
+</div>
+<hr>
+<div class="row-fluid">
  <div class="span10">
   <div class="btn-group">
    <a href="/code4lib/brief-bibframe-intro.html" 
       class="btn btn-large">&laquo; Briefly Introducing BIBFRAME</a>
-   <a href="/code4lib/bibframe-redis.html" 
-      class="btn btn-large btn-success">Combining BIBFRAME and Redis &raquo;</a>
+   <a href="/code4lib/redis-library-services-platform.html" 
+      class="btn btn-large btn-success">Redis Library Services Platform &raquo;</a>
   </div>
  </div>
 </div>

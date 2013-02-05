@@ -28,7 +28,7 @@
          currently collaborating on 
          <a href="/code4lib/glossary.html#RLSP">Redis Library Services Platform (RLSP)</a>, a new type of bibliographic datastore for accessing and managing library resources at scale. 
         </p>
-        <a class="btn btn-large btn-success" href="/code4lib/brief-bibframe-intro.html">Briefly Introducting BIBFRAME &raquo;</a>
+        <a class="btn btn-large btn-success" href="/code4lib/overview.html">Overview &raquo;</a>
       </div>
   
       <hr>

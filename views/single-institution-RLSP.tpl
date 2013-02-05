@@ -7,6 +7,12 @@
 </div>
 <hr>
 <div class="row-fluid">
+ <div class="span8">
+  <img src="http://journal.code4lib.org/media/issue19/nelson/single-server-bibframe-datastore.png">
+ </div> 
+</div>
+<hr>
+<div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
    <a href="/code4lib/aristotle-library-apps.html" class="btn btn-large">&laquo; Existing and Planned Apps</a>

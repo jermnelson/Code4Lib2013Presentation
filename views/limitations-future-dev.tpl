@@ -11,10 +11,30 @@
 </div>
 <hr>
 <div class="row-fluid">
+ <div class="span6">
+  <h2>Limitations</h2>
+  <ul>
+   <li>BIBFRAME &amp; MARC21 interoperability</li>
+   <li>HTML5 Apps vs Native Apps</li>
+   <li>Analytics &amp; Statistics</li>
+   <li>Operating at Web scale</li>
+  </ul>
+ </div>
+ <div class="span6">
+   <h3>Development Roadmap</h3>
+   <ul>
+    <li>Master-Slave, partial sync, &amp; Redis Cluster</li>
+    <li>Circulation &amp; Resource Sharing Apps</li>
+   </ul>
+
+ </div>
+</div>
+<hr>
+<div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
    <a href="/code4lib/consortium-RLSP.html" class="btn btn-large">&laquo; Consortium RLSP</a>
-   <a href="/code4lib/timeline-join-RLSP.html" class="btn btn-large btn-success">Timeline &amp; Participating &raquo;</a>
+   <a href="/code4lib/timeline-join-RLSP.html" class="btn btn-large btn-success">Timeline and Participating &raquo;</a>
   </div>
  </div>
 </div>
