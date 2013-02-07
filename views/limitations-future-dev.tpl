@@ -34,7 +34,7 @@
  <div class="span10 offset2">
   <div class="btn-group">
    <a href="/code4lib/consortium-RLSP.html" class="btn btn-large">&laquo; Consortium RLSP</a>
-   <a href="/code4lib/timeline-join-RLSP.html" class="btn btn-large btn-success">Timeline and Participating &raquo;</a>
+   <a href="/code4lib/timeline-join-RLSP.html" class="btn btn-large btn-success">Timeline and Participation &raquo;</a>
   </div>
  </div>
 </div>

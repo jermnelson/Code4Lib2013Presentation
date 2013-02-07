@@ -8,8 +8,15 @@
 <hr>
 <div class="row-fluid">
  <div class="span12">
-   <h2>BIBFRAME</h2>
-   <h2>Redis</h2>
+   <h2>Introducing BIBFRAME</h2>
+   <h2>Introducing Redis</h2>
+   <h2>Redis Library Services Platform (RLSP)</h2>
+   <h2>Library Apps</h2>
+   <h2>Single Institution RLSP</h2>
+   <h2>Peer-to-Peer RLSP</h2>
+   <h2>Consortium RLSP</h2>
+   <h2>Limitations and Future Development</h2>
+   <h2>Timeline and Participation</h2>
  </div>
 </div>
 <hr>

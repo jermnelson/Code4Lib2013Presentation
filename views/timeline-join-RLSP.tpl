@@ -1,7 +1,7 @@
 %include masthead nav_section='presentation'
 <div class="row-fluid">
  <div class="span12 hero-unit">
-   <h1>Timeline and Participating</h1>
+   <h1>Timeline and Participation</h1>
    <p class="lead"></p>
  </div>
 </div>
