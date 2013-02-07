@@ -2,7 +2,11 @@
 <div class="row-fluid">
  <div class="span12 hero-unit">
    <h1>Redis Library Services Platform (<a href="/code4lib/glossary.html#RLSP">RLSP</a>)</h1>
-   <p class="lead"></p>
+   <p class="lead">
+    The Redis Library Services Platform currently composed of two open-source projects;
+    <a href="/code4lib/glossary.html#aristotle-library-apps">Aristotle Library Apps</a> 
+    and the <a href="/code4lib/glossary.html#BIBFRAME-datastore">BIBFRAME Datastore</a>
+   </p>
  </div>
 </div>
 <hr>
@@ -10,10 +14,12 @@
  <div class="span6">
   <h2>1-2min</h2>
   <h3>Components</h3>
-  <ul>
-   <li>BIBFRAME Datastore project</li>
-   <li>Aristotle Library Apps</li>
-   </ul>
+  <div class="alert alert-block alert-success">
+   <h3>BIBFRAME Datastore project</h3>
+  </div>
+  <div class="alert alert-block alert-info">
+   <h3>Aristotle Library Apps</h3>
+  </div>
  </div>
  <div class="span6">
   <h3>Why the split?</h3>
