@@ -40,20 +40,5 @@
   </div>
  </div>
 </div>
-
-<div id="question-comment-dlg" class="modal hide fade">
- <div class="modal-header">
-   <h3>Questions? Comments?</h3>
- </div>
- <div class="modal-body">
-   <p class="lead">Please email
-    <a href="mailto:sheila.yeh@du.edu">sheila.yeh@du.edu</a>
-    <a href="mailto:jeremy.nelson@coloradocollege.edu">jeremy.nelson@coloradocollege.edu</a>.
-    Let us know what you think!</p>
- </div>
- <div class="modal-footer">
-  <a href="#" data-dismiss="modal" class="btn btn-primary">Close</a>
- </div>
-</div>
 %include footer
 %rebase layout
