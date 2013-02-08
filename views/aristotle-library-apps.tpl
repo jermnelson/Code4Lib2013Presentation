@@ -14,14 +14,19 @@
  <div class="span6">
   <h3>Existing Apps</h3>
   <ul>
-   <li>Hours App</li>
+   <li><a href="http://discovery.coloradocollege.edu/apps/hours" 
+        class="btn btn-success">Hours App</a></li>
    <li>Discovery App</li>
   </ul>
  </div>
  <div class="span6">
   <h3>Future Apps</h3>
+  <p>
   <a class="btn btn-primary btn-large" href="#">Circulation App</a>
-
+  </p>
+  <p>
+  <a class="btn btn-primary btn-large" href="#">Resource Sharing App</a>
+  </p>
  </div>
 </div>
 <hr>

@@ -7,7 +7,9 @@
 </div>
 <hr>
 <div class="row-fluid">
- <div class="span2"></div>
+ <div class="span2">
+  <h2>Explain Redis Master-Slave</h2>
+ </div>
  <div class="span10">
   <img src="http://journal.code4lib.org/media/issue19/nelson/peer-to-peer-bibframe-datastores-500.png" />
 

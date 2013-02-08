@@ -24,7 +24,7 @@
      <li><a href="/code4lib/peer-to-peer-RLSP.html">Peer-to-Peer RLSP</a></li>
      <li><a href="/code4lib/consortium-RLSP.html">Consortium RLSP</a></li>
      <li><a href="/code4lib/limitations-future-dev.html">Limitations and Future Development</a></li>
-     <li><a href="/code4lib/timeline-join-RLSP.html">Timeline and Particpating</a></li>
+     <li><a href="/code4lib/timeline-join-RLSP.html">Timeline and Particpation</a></li>
     </ul>
    </li>
    <li class="dropdown  

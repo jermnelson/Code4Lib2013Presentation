@@ -2,7 +2,9 @@
 <div class="row-fluid">
  <div class="span12 hero-unit">
    <h1>Limitations and Future Development</h1>
-   <p class="lead">The RLSP is an immature platform that limits are still being explored. 
+   <p class="lead">The RLSP is an evolving platform with its functionality being 
+    actively explored. 
+
     Following a <a href="/code3lib/glossary.html#LeanStartup">Lean Startup</a> model,
     here is our current and future development plans for the Redis Library Services 
     Platform. 
@@ -23,7 +25,7 @@
  <div class="span6">
    <h3>Development Roadmap</h3>
    <ul>
-    <li>Master-Slave, partial sync, &amp; Redis Cluster</li>
+    <li>Master-Slave, partial sync, &amp; Redis Cluster (under development)</li>
     <li>Circulation &amp; Resource Sharing Apps</li>
    </ul>
 
@@ -33,9 +35,24 @@
 <div class="row-fluid">
  <div class="span10 offset2">
   <div class="btn-group">
-   <a href="/code4lib/consortium-RLSP.html" class="btn btn-large">&laquo; Consortium RLSP</a>
+   <a href="/code4lib/consortium-RLSP.html" class="btn btn-large" data-modal>&laquo; Consortium RLSP</a>
    <a href="/code4lib/timeline-join-RLSP.html" class="btn btn-large btn-success">Timeline and Participation &raquo;</a>
   </div>
+ </div>
+</div>
+
+<div id="question-comment-dlg" class="modal hide fade">
+ <div class="modal-header">
+   <h3>Questions? Comments?</h3>
+ </div>
+ <div class="modal-body">
+   <p class="lead">Please email
+    <a href="mailto:sheila.yeh@du.edu">sheila.yeh@du.edu</a>
+    <a href="mailto:jeremy.nelson@coloradocollege.edu">jeremy.nelson@coloradocollege.edu</a>.
+    Let us know what you think!</p>
+ </div>
+ <div class="modal-footer">
+  <a href="#" data-dismiss="modal" class="btn btn-primary">Close</a>
  </div>
 </div>
 %include footer

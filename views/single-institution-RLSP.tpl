@@ -10,6 +10,11 @@
  <div class="span8">
   <img src="http://journal.code4lib.org/media/issue19/nelson/single-server-bibframe-datastore.png">
  </div> 
+ <div class="span4">
+  <h3>Describe each part</h3>
+  <h3>Datastore Instance</h3>
+  
+ </div>
 </div>
 <hr>
 <div class="row-fluid">
