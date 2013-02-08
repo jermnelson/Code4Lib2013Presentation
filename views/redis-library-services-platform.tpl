@@ -19,6 +19,16 @@
   </div>
   <div class="alert alert-block alert-info">
    <h3>Aristotle Library Apps</h3>
+   <img src="/code4lib/assets/img/aristotle-library-apps.png" alt="Aristotle Library Apps" style="float: left" />
+   <p>
+     The <a href="/code4lib/glossary.html#aristotle-library-apps">Aristotle Library Apps</a> 
+     project is based on <a href="/code4lib/glossary.html#Django">Django</a> and uses 
+     Twitter's <a href="/code4lib/glossary.html#Bootstrap">Bootstrap</a>,  
+     <a href="/code4lib/glossary.html#Knockoutjs">Knockout</a>, and
+     <a href="/code4lib/glossary.html#jQuery">jQuery</a> for client-side javascript
+     and stylesheets of the HTML5 apps.
+   </p>
+   
   </div>
  </div>
  <div class="span6">

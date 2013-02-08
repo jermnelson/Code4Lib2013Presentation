@@ -94,8 +94,21 @@
     professional organization.
    </dd>
    <dt><a name="Instance"></a>Instance</dt>
-   <dd>A core class of the <a href="#BIBFRAME">BIBFRAME</a> model</dd>
-
+   <dd>A core class of the <a href="#BIBFRAME">BIBFRAME</a> model with the draft specification available 
+    at <a href="http://bibframe.org/vocab/Instance.html">http://bibframe.org/vocab/Instance.html</a>.
+   </dd>
+   <dt><a name="jQuery"></a>jQuery</a></dt>
+   <dd>
+    One of the most used javascript libraries and is used by other frameworks like
+    <a href="#Bootstrap">Bootstrap</a>. jQuery is available at
+    <a href="
+   </dd>
+   <dt><a name="Knockoutjs"></a>Knockout</a></dt>
+   <dd>
+    An open-source Model-View-View-Model Javascript project used for rich and dynamic HTML5 user interfaces
+    in the <a href="#aristotle-library-apps">Aristotle Library Apps</a> project. Knockout is available 
+    at <a href="http://knockoutjs.com/index.html">http://knockoutjs.com/index.html</a>
+   </dd>
    <dt><a name="LinkedData"></a>Linked Data</dt>
    <dd>
     Linked Data is an international effort by multiple user communities to build a semantic web for representing relationships
@@ -103,7 +116,8 @@
    </dd>
    <dt><a name="MARC21"></a>MARC21</a></dt>
    <dd>
-    An acronym for Machine Readable Cataloging record, MARC21 is the most widely used data-carrier format and specification 
+    An acronym for <b>Ma</b>chine <b>R</b>eadable <b>C</b>ataloging record, MARC21 is the most 
+    widely used data-carrier format and specification 
     used by libraries today. 
    </dd>
   </dl>

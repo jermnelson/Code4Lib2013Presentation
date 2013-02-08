@@ -2,7 +2,7 @@
 <div class="row-fluid">
  <div class="span12 hero-unit">
    <h1>Briefly Introducing BIBFRAME</h1>
-   <p class="lead">BIBFRAME is the name of the new bibliographic model and is the result of the work done Library of Congress Bibliographic Framework Transition Initiative</p>
+   <p class="lead">BIBFRAME is an effort led by the Library of Congress to take us beyond MARC standards.</p>
  </div>
 </div>
 <div class="row-fluid">
