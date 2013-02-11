@@ -12,10 +12,15 @@
 <hr>
 <div class="row-fluid">
  <div class="span6">
-  <h2>1-2min</h2>
-  <h3>Components</h3>
   <div class="alert alert-block alert-success">
    <h3>BIBFRAME Datastore project</h3>
+   <p>
+    The Redis Bibliographic Framework Datastore project currently tracks the the Library of Congress's Bibliographic 
+    Framework Transition Initiative's <a href="http://bibframe.org/">BIBFRAME</a> model first described by Sally
+    McCallum <sup><a href="/code4lib/references-resources.html#McCallum">ref</a></sup> and later developed in a
+    November 21, 2012 report <sup><a href="/code4lib/references-resources.html#Miller">ref</a></sup>. This model
+    was formally released January 27th at the <a href="http://bibframe.org/">http://bibframe.org/</a> website.
+   </p>
   </div>
   <div class="alert alert-block alert-info">
    <h3>Aristotle Library Apps</h3>
@@ -33,7 +38,21 @@
  </div>
  <div class="span6">
   <h3>Why the split?</h3>
-  <p>Other UI front-ends besides Aristotle Library Apps...</p>
+  <img src="/code4lib/assets/img/kuali-ole.png" style="float:right">
+  <p>We decided to break-up the Redis Library Services Platform into two open source
+     projects because we want other applications and services to use BIBFRAME datastore
+     without the specific user-interface and conventions of the Django-based Aristotle Library Apps project.
+  </p>
+  <img src="/code4lib/assets/img/blacklight-logo.png" style="float:left">
+  <p>
+     The BIBFRAME datastore project deliberately tries to keep external dependencies to a minimum and going
+     forward will include Lua server-side scripts for a consistent, if lower-level, API to the BIBFRAME
+     datastore. 
+  </p>
+  <img src="/code4lib/assets/img/vufind_logo.jpg" style="float:right">
+  <p>We welcome any interest from other library projects and user-interface front-ends besides Aristotle Library
+     Apps</p>
+  
  </div>
 </div>
 <hr>

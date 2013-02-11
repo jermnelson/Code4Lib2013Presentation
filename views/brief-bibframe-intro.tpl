@@ -57,7 +57,7 @@
    The <a href="/code4lib/glossary.html#Creative-Work" class="label label-inverse">Creative Work</a> is a resource that reflects a conceptual essence of the cataloging resource.
    </p>
    <p>
-    The <a href="/code4lib/glossary.html#Instance" class="label label-inverse">Instance</a> is a resource that reflects an individual, material emodiment of the Creative Work.
+    The <a href="/code4lib/glossary.html#Instance" class="label label-inverse">Instance</a> is a resource that reflects an individual, material embodiment of the Creative Work.
    </p>
    <p>
     <a href="/code4lib/glossary.html#Authority" class="label label-inverse">Authorities</a> in the BIBFRAME model 

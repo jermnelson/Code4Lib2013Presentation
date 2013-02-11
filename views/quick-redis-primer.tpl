@@ -3,12 +3,7 @@
  <div class="span12 hero-unit">
    <h1>A Quick Redis Primer</h1>
    <p class="lead"><a href="/glossary.html#Redis">Redis</a> is a key-value data store where keys can 
-   contain 
-  <a href="#" 
-     data-content="The most basic kind of Redis value. Redis strings are binary safe and 
-     contain any kind of serialized data including Unicode, MP3, and JPEG"
-     data-original-title="String"
-     rel="popover">strings</a>, hashes, lists, sets, and sorted sets</p>
+   contain strings, hashes, lists, sets, and sorted sets</p>
  </div>
 </div>
 <hr>
@@ -190,7 +185,7 @@
      <td>Schema required</td>
     </tr>
     <tr>
-     <td>Set-up trival</td>
+     <td>Set-up trivial</td>
      <td>Set-up can be complex depending on database</td>
     </tr>
     <tr>

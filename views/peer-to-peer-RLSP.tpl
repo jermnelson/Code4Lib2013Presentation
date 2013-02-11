@@ -2,14 +2,27 @@
 <div class="row-fluid">
  <div class="span12 hero-unit">
    <h1>Peer-to-Peer <a href="/code4lib/glossary.html#RLSP">RLSP</a></h1>
-   <p class="lead"></p>
+   <p class="lead">
+    In a Peer-to-Peer set-up, insitutions have local control over their own Master BIBFRAME Instance
+    datastores and allow other insitutions to replicate slave BIBFRAME Creative Work, Authority,
+    and Annotations datastores of the Master BIBFRAME datastores.  
+   </p>
  </div>
 </div>
 <hr>
 <div class="row-fluid">
- <div class="span2">
-  <h2>Explain Redis Master-Slave</h2>
+ <div class="span12">
+  <h2>Redis Master-Slave Replication</h2>
+  <p>
+   Redis replication is simple to use and easy to configure where multiple Redis slave instances to be
+   exact, read-only copies of a master Redis server. In a peer-to-peer Redis Library Services set-up,
+   institutions host read-only Creative Work, Authority, and Annotations slaves that are hosted by 
+   the other institution. BIBFRAME Instance datastores are not automatically shared through the 
+   master-slave replication.  
+  </p>
  </div>
+</div>
+<div class="row-fluid">
  <div class="span10">
   <img src="http://journal.code4lib.org/media/issue19/nelson/peer-to-peer-bibframe-datastores-500.png" />
 

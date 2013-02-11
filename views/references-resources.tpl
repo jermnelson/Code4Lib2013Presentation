@@ -37,12 +37,20 @@ https://support.cloud.engineyard.com/entries/20996576-Add-Redis-to-your-applicat
    <a href="http://aws.amazon.com/articles/3997">http://aws.amazon.com/articles/3997</a> 
    (accessed February 6, 2013)
   </li>
+  <li>
+    <a name="McCallum"></a>Sally McCallum, "Bibliographic Framework Initiative  Approach for ARC Data as Linked Data"
+    <a href="http://igelu.org/wp-content/uploads/2012/09/IGeLU-sally-McCallum.pptx">http://igelu.org/wp-content/uploads/2012/09/IGeLU-sally-McCallum.pptx</a> (accessed February 10, 2013)
+  </li>
+  <li><a name="Miller"></a>Eric Miller, Uche Ogbuji, Victoria Mueller, and Kathy MacDougal. 
+   "Bibliographic Framework as a Web of Data: Linked Data Model and Supporting Services" 
+    <a href="http://www.loc.gov/marc/transition/pdf/marcld-report-11-21-2012.pdf">http://www.loc.gov/marc/transition/pdf/marcld-report-11-21-2012.pdf</a> (accessed February 10, 2013)
+  </li>
   <li><a name="Montrose"></a>Kevin Montrose, "Does Stack Overflow use caching and if so, how?"
    <a href="http://meta.stackoverflow.com/questions/69164/does-stack-overflow-use-caching-and-if-so-how/69172#69172">
    http://meta.stackoverflow.com/questions/69164/does-stack-overflow-use-caching-and-if-so-how/69172#69172</a> 
    (accessed February 6, 2013)
-  </li>
-  <li><a name="Preseton-Werner"></a>Tom Preston-Werner, "How We Made GitHub Fast"
+  </li>  
+  <li><a name="Preston-Werner"></a>Tom Preston-Werner, "How We Made GitHub Fast"
    <a href="https://github.com/blog/530-how-we-made-github-fast">https://github.com/blog/530-how-we-made-github-fast</a>
    (accessed  February 6, 2013)
   </li>
