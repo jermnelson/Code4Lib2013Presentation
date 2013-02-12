@@ -16,7 +16,7 @@
        <div class="span6" style="text-align: center">
          <p class="lead">
           Sheila Yeh<br>
-          Library Digital Infrastructure &amps; Technology Coordinator<br>
+          Library Digital Infrastructure &amp; Technology Coordinator<br>
           University of Denver<br>
           <a href="mailto:Sheila.Yeh@du.edu">sheila.yeh@du.edu</a>
 
@@ -55,7 +55,7 @@
           <p>Most terms referenced in this presentation are briefly defined in a
           <a href="/code4lib/glossary.html">Glossary</a>, a list of resources including
           links to most of the technology used in in <a href="/code4lib/glossary.html#rlsp">RLSP</a>
-          and in this presentation are availabe on the <a href="/code4lib/references.html">References</a>
+          and in this presentation are available on the <a href="/code4lib/references.html">References</a>
           page. </p>
   
         </div>
