@@ -3,7 +3,7 @@
  <div class="span12 hero-unit">
    <h1>Single Institution <a href="/code4lib/glossary.html#RLSP">RLSP</a></h1>
    <p class="lead">
-   In the single-institution varient of Redis Library Services Platform, multiple Redis 
+   In the single-institution variant of Redis Library Services Platform, multiple Redis 
    instances are run on same virtual machine using different ports.
    </p>
  </div>
@@ -20,13 +20,13 @@
   <h3>Redis Datastore instances</h3>
   <p>
    Each of the four major class categories of the
-   BIBFRAME model, Creative Work, Instance, Annotation, and Authority. Each has a dedicated Redis
-   instance along with additional instances for testing and operational
+   BIBFRAME model, Creative Work, Instance, Annotation, and Authority has a dedicated Redis
+   instance. Additional Redis instances are used for testing and operational
    data. 
   </p> 
   <p>
    Coordination and management are all handed client-side through the Aristotle Library Apps
-   front-end that runs a separate virtual machine than the Redis datastores.
+   front-end that runs on a separate virtual machine than the Redis datastores.
   </p>
  </div>
 </div>

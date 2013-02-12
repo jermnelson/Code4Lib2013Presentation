@@ -8,6 +8,7 @@
        <div class="span6" style="text-align: center">
          <p class="lead">
           Jeremy Nelson<br>
+          Metadata and Systems Librarian<br>
           Colorado College<br>
           <a href="mailto:jeremy.nelson@coloradocollege.edu">jeremy.nelson@coloradocollege.edu</a>
          </p>
@@ -15,8 +16,9 @@
        <div class="span6" style="text-align: center">
          <p class="lead">
           Sheila Yeh<br>
+          Library Digital Infrastructure &amps; Technology Coordinator<br>
           University of Denver<br>
-          <a href="#">sheila.yeh@du.edu</a>
+          <a href="mailto:Sheila.Yeh@du.edu">sheila.yeh@du.edu</a>
 
          </p>
        </div>

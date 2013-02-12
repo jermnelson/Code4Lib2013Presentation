@@ -26,7 +26,7 @@
  <div class="span6">
   <h3>Future Apps</h3>
   <p>
-   <a class="btn btn-primary btn-large" href="/apps/discovery/">Discovery App</a>
+   <a class="btn btn-primary btn-large" target="discovery_win" href="/apps/discovery/">Discovery App</a>
   </p>
   <p>
   <a class="btn btn-primary btn-large" href="#circ-app-dlg"
@@ -77,7 +77,7 @@
  <div class="modal-body">
   <p class="lead">
   The Resource Sharing App will be started after a successful launch of the Circulation App  
-  and will be focused on staff workflows for requesting and fullfilling inter-library loan
+  and will focuse on staff's workflows for fulfilling inter-library loan
   activity on a consortium scale. The Resource Sharing App will use the realtime circulation 
   feed from the Circulation App.
   </p>
