@@ -3,7 +3,7 @@
  <div class="span12 hero-unit">
    <h1>Consortium <a href="/code4lib/glossary.html#RLSP">RLSP</a></h1>
    <p class="lead">The Colorado Alliance of Research Libraries, a library consortium in Colorado,
-   along with Colorado College, University of Denver, and Colorado Statue University, are participating
+   along with Colorado College, University of Denver, and Colorado State University, are participating
    in the development and pilot of a web-scale Redis Library Services Platform.</p>
  </div>
 </div>

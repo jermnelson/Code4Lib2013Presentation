@@ -40,7 +40,7 @@
            Consortium MARCR Redis Datastore</em>, reflected the current naming
            scheme that was articulated by Sally McCullum of the Bibliographic
            Framework Transition at the Library of Congress in a presentation 
-           she gave on that group's work. Later in 2012, Jason Z... formally
+           she gave on that group's work. Later in 2012, this group formally
            released the same model with some minor changes (i.e. Work now 
            became Creative Work) that dropped the term, MARCR, in favor of
            BIBFRAME. 
