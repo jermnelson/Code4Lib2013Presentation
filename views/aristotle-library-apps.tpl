@@ -77,9 +77,9 @@
  <div class="modal-body">
   <p class="lead">
   The Resource Sharing App will be started after a successful launch of the Circulation App  
-  and will be focused on staff workflows for requesting and fullfullment of inter-library loan
+  and will be focused on staff workflows for requesting and fullfilling inter-library loan
   activity on a consortium scale. The Resource Sharing App will use the realtime circulation 
-  status feed provided by the Circulation App.
+  feed from the Circulation App.
   </p>
  </div>
  <div class="modal-footer">

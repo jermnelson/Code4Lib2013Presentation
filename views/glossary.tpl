@@ -51,7 +51,12 @@
     documentation, and custom scripting for a native BIBFRAME datastore implemented in Redis.
     Source code is available at 
     <a href="https://github.com/jermnelson/BIBFRAME-Datastore">https://github.com/jermnelson/BIBFRAME-Datastore</a>.
-   </dd>  
+   </dd> 
+   <dt><a name="CoverArt"></a>Cover Art</dt>
+   <dd>
+    A BIBFRAME Annotation subclass, typically includes information about the graphical appearance of a BIBFRAME
+    Instance.
+   </dd> 
    <dt><a name="CreativeWork"></a>Creative Work</dt>
    <dd>
      A core class of the <a href=#BIBFRAME">BIBFRAME</a> model.
@@ -101,13 +106,25 @@
    <dd>
     One of the most used javascript libraries and is used by other frameworks like
     <a href="#Bootstrap">Bootstrap</a>. jQuery is available at
-    <a href="
+    <a href="http://jquery.com/">http://jquery.com/</a>
    </dd>
-   <dt><a name="Knockoutjs"></a>Knockout</a></dt>
+  <dt><a name="Knockoutjs"></a>Knockout</a></dt>
    <dd>
     An open-source Model-View-View-Model Javascript project used for rich and dynamic HTML5 user interfaces
     in the <a href="#aristotle-library-apps">Aristotle Library Apps</a> project. Knockout is available 
     at <a href="http://knockoutjs.com/index.html">http://knockoutjs.com/index.html</a>
+   </dd>
+   <dt><a name="LeanStartup"></a>Lean Startup</a>
+   <dd>
+    A new approach for creating new products and services that builds upon Agile and 
+    and is inspired by lean manufacturing process and techniques. The Lean Startup 
+    is built around a Build-Measure-Learn iterative cycles that focus on validated learning
+    around actionable metrics with rapid experimentation and testing of hypothesis.  
+   </dd>
+   <dt><a name="Holding"></a>Library Holding</dt>
+   <dd>
+    A BIBRAME Annotation subclass, Library Holding contains call numbers, locations, 
+    and other holding information about a BIBFRAME Instance.
    </dd>
    <dt><a name="LinkedData"></a>Linked Data</dt>
    <dd>
@@ -166,6 +183,10 @@
     <a href="http://redis.io">Redis</a> is an in-memory advanced key-value datastore that is considered
     a <a href="#NoSQL">NoSQL</a> technology. Redis is used extensively by large commercial websites and
     is the primary storage technology used in <a href="#RLSP">RLSP</a>.
+   </dd>
+   <dt><a name="Review"></a>Review</dt>
+   <dd>
+    A BIBFRAME Annotation subclass, typically represents a book or movie review of a BIBFRAME Instance.
    </dd>
    <dt><a name="RLSP"></a>RLSP</dt>
    <dd>

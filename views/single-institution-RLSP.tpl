@@ -11,15 +11,18 @@
 <hr>
 <div class="row-fluid">
  <div class="span8">
+ <figure>
   <img src="http://journal.code4lib.org/media/issue19/nelson/single-server-bibframe-datastore.png">
+  <figcaption>Source: Nelson, J (2013) <a href="http://journal.code4lib.org/articles/7349">http://journal.code4lib.org/articles/7349</a></figcaption>
+ </figure>
  </div> 
  <div class="span4">
   <h3>Redis Datastore instances</h3>
   <p>
    Each of the four major class categories of the
-   BIBFRAME model, Creative Work, Instance, Annotation, and Authority each have a dedicated Redis
-   instance along with a Redis instance  used for testings and a Redis instance for operational
-   data like a library's hours. 
+   BIBFRAME model, Creative Work, Instance, Annotation, and Authority. Each has a dedicated Redis
+   instance along with additional instances for testing and operational
+   data. 
   </p> 
   <p>
    Coordination and management are all handed client-side through the Aristotle Library Apps

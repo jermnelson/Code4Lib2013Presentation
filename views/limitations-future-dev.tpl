@@ -5,7 +5,7 @@
    <p class="lead">The RLSP is an evolving platform with its functionality being 
     actively explored. 
 
-    Following a <a href="/code3lib/glossary.html#LeanStartup">Lean Startup</a> model,
+    Following a <a href="/code4lib/glossary.html#LeanStartup">Lean Startup</a> model,
     here is our current and future development plans for the Redis Library Services 
     Platform. 
    </p>
