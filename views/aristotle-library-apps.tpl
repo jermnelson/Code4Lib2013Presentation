@@ -2,10 +2,10 @@
 <div class="row-fluid">
  <div class="span12 hero-unit">
    <h1>Existing and Planned Apps</h1>
-   <p class="lead">The Redis Library Services platform includes an HTML5 app development framework,
-   based on <a href="/code4lib/glossary.html#Django">Django</a>, and Twitter's 
-   <a href="/code4lib/glossary.html#Bootstrap">Bootstrap</a> called 
-   <a href="/code4lib/glossary.html#aristotle-library-apps">Aristotle Library Apps</a>.
+   <p class="lead">The Redis Library Services platform includes an HTML5 app development framework
+   called <a href="/code4lib/glossary.html#aristotle-library-apps">Aristotle Library Apps</a>.
+   Aristotle Library Apps is based on <a href="/code4lib/glossary.html#Django">Django</a> and uses
+   Twitter's <a href="/code4lib/glossary.html#Bootstrap">Bootstrap</a> framework.
   </p>
  </div>
 </div>
