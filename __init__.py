@@ -52,10 +52,10 @@ def home():
 		    section = None,
 		    view_title='A title')
 
-FLUP = False
+FLUP = True
 if FLUP is True:
     run(server=FlupFCGIServer,
         host='0.0.0.0',
         port=8081)
 else:
-    run(host="0.0.0.0",port=8013)
+    run(host="0.0.0.0", port=8081)

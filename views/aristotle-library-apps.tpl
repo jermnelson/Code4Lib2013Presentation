@@ -2,10 +2,10 @@
 <div class="row-fluid">
  <div class="span12 hero-unit">
    <h1>Existing and Planned Apps</h1>
-   <p class="lead">The Redis Library Services platform includes an HTML5 app development framework,
-   based on <a href="/code4lib/glossary.html#Django">Django</a>, and Twitter's 
-   <a href="/code4lib/glossary.html#Bootstrap">Bootstrap</a> called 
-   <a href="/code4lib/glossary.html#aristotle-library-apps">Aristotle Library Apps</a>.
+   <p class="lead">The Redis Library Services platform includes an HTML5 app development framework
+   called <a href="/code4lib/glossary.html#aristotle-library-apps">Aristotle Library Apps</a>.
+   Aristotle Library Apps is based on <a href="/code4lib/glossary.html#Django">Django</a> and uses
+   Twitter's <a href="/code4lib/glossary.html#Bootstrap">Bootstrap</a> framework.
   </p>
  </div>
 </div>
@@ -26,7 +26,7 @@
  <div class="span6">
   <h3>Future Apps</h3>
   <p>
-   <a class="btn btn-primary btn-large" href="/apps/discovery/">Discovery App</a>
+   <a class="btn btn-primary btn-large" target="discovery_win" href="/apps/discovery/">Discovery App</a>
   </p>
   <p>
   <a class="btn btn-primary btn-large" href="#circ-app-dlg"
@@ -77,9 +77,9 @@
  <div class="modal-body">
   <p class="lead">
   The Resource Sharing App will be started after a successful launch of the Circulation App  
-  and will be focused on staff workflows for requesting and fullfullment of inter-library loan
+  and will focuse on staff's workflows for fulfilling inter-library loan
   activity on a consortium scale. The Resource Sharing App will use the realtime circulation 
-  status feed provided by the Circulation App.
+  feed from the Circulation App.
   </p>
  </div>
  <div class="modal-footer">

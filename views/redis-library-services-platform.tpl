@@ -38,7 +38,7 @@
  </div>
  <div class="span6">
   <h3>Why the split?</h3>
-  <img src="/code4lib/assets/img/kuali-ole.png" style="float:right">
+  <img src="/code4lib/assets/img/android.jpg" width="100" style="float:right">
   <p>We decided to break-up the Redis Library Services Platform into two open source
      projects because we want other applications and services to use BIBFRAME datastore
      without the specific user-interface and conventions of the Django-based Aristotle Library Apps project.
@@ -49,10 +49,10 @@
      forward will include Lua server-side scripts for a consistent, if lower-level, API to the BIBFRAME
      datastore. 
   </p>
-  <img src="/code4lib/assets/img/vufind_logo.jpg" style="float:right">
+  <img src="/code4lib/assets/img/kuali-ole.png" style="float:right">
   <p>We welcome any interest from other library projects and user-interface front-ends besides Aristotle Library
      Apps</p>
-  
+  <img src="/code4lib/assets/img/vufind_logo.jpg" style="float:left">
  </div>
 </div>
 <hr>

@@ -38,7 +38,6 @@
     </a>
     <ul class="dropdown-menu">
      <li><a href="/code4lib/glossary.html">Glossary</a></li>
-     <li><a href="/code4lib/help.html">Help</a></li>
      <li><a href="/code4lib/references-resources.html">References &amp; Resources</a></li>
     </ul>
    </li>
