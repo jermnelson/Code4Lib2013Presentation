@@ -116,6 +116,11 @@
     </a>
    </li>
    <li>
+    <a href="http://redis-cloud.com/" class="thumbnail">
+     <img src="/code4lib/assets/img/rediscloud-logo.png">
+    </a>
+   </li>
+   <li>
     <a href="http://redis4you.com/" class="thumbnail">
       <img src="/code4lib/assets/img/redis4you.gif">Redis4You
     </a>
